@@ -1,0 +1,9 @@
+.DS_Store
+spec-changes.md
+*.egg-info
+/build
+__pycache__
+.ipynb_checkpoints
+*.pyc
+/venv
+/notebooks/beaconrunner/testing.ipynb
